@@ -1,0 +1,5 @@
+version_notes.db
+*.log
+__pycache__/
+*.pyc
+.claude/
