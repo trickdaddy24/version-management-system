@@ -1,9 +1,13 @@
+<div align="center">
+
 # Version Management System
 
 A lightweight **command-line tool** for tracking software releases using **Semantic Versioning** (SemVer).
 It stores version history + release notes in SQLite and automatically maintains a Markdown `CHANGELOG.md`.
 
 Current script version: **0.2.0**
+
+</div>
 
 ## What's New in v0.2.0
 
@@ -75,3 +79,9 @@ Then follow the interactive menu:
 | **2**  | Print all stored versions with notes and timestamps |
 | **3**  | Update the notes for an existing version |
 | **0**  | Exit the application |
+
+---
+
+## License
+
+[MIT](LICENSE) © Minus One Labs
